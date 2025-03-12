@@ -1,6 +1,6 @@
 # Segunda tarea de APA 2023: Manejo de números primos
 
-## Nom i cognoms
+## Nom i cognoms: Francesc Xavier Hidalgo Martin
 
 ## Fichero `primos.py`
 
